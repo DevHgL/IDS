@@ -1,5 +1,3 @@
-### Explicação Passo a Passo para o README
-
 1. **Variável Global para Contagem de Alertas**  
    ```python
    alert_count = 0
